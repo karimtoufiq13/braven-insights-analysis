@@ -42,3 +42,29 @@ As part of a data storytelling and impact assessment challenge, I analyzed parti
   - Introducing networking workshops and mentorship initiatives.
   - Enhancing career-aligned programming.
   - Adopting successful strategies from Site 2 across all locations.
+ 
+---
+
+## 🛠️ Skills Demonstrated
+
+- Statistical Analysis & Data Cleaning  
+- Data Visualization & Dashboard Design  
+- Data-Driven Decision-Making  
+- Stakeholder-Oriented Communication  
+- Program Evaluation & Insights Reporting  
+
+---
+
+## 📂 Files Included
+
+- Python analysis notebook  
+- Presentation slides  
+- Final summary report
+
+---
+
+## 🚀 Next Steps
+
+- Incorporate qualitative feedback to deepen understanding of low-satisfaction segments.
+- Pilot new interventions and track post-implementation outcomes.
+- Continue monitoring NPS and skill self-efficacy trends over time.
