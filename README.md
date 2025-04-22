@@ -1,17 +1,16 @@
-# 📊 Braven Program Insights & Impact Analysis
+# Braven Program Insights & Impact Analysis
 
-**Role:** Data Analyst  
 **Tools Used:** Jupyter Notebook, Python (Pandas, Matplotlib/Seaborn), PowerPoint, PDF Reporting  
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 As part of a data storytelling and impact assessment challenge, I analyzed participant feedback from the Braven career readiness program. The objective was to evaluate effectiveness across program sites and identify areas for improvement in career development and networking support.
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - **Overall Satisfaction**:  
   76% of participants reported that Braven enhanced their career or graduate school prospects “quite a bit” or “a great deal.”
@@ -29,4 +28,17 @@ As part of a data storytelling and impact assessment challenge, I analyzed parti
 - **Skill Confidence Analysis**:  
   - **Job Search Self-Efficacy**: Mean = 5.87 (high confidence)  
   - **Career Self-Efficacy**: Mean = 5.98 (high confidence)  
-  - **Networking Self-Efficacy**: Mean = 3.52 (low confidence), suggesting a need for targeted support in
+  - **Networking Self-Efficacy**: Mean = 3.52 (low confidence), suggesting a need for targeted support in building networking skills.
+
+---
+
+## 📈 Methods & Deliverables
+
+- Cleaned and analyzed survey data using Python (Pandas, NumPy).
+- Calculated mean scores, standard deviations, and NPS segmentation.
+- Created visualizations with matplotlib/seaborn.
+- Developed a PowerPoint presentation and PDF report to share findings with stakeholders.
+- Proposed actionable strategies, such as:
+  - Introducing networking workshops and mentorship initiatives.
+  - Enhancing career-aligned programming.
+  - Adopting successful strategies from Site 2 across all locations.
